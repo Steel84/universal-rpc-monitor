@@ -12,3 +12,10 @@ A lightweight, developer-friendly Python utility designed to audit and monitor t
 Ensure you have Python 3.8+ installed, then run:
 ```bash
 pip install web3
+
+## 💻 Usage
+1. Open sonic_test.py in your editor (VS Code).
+2. Update the SONIC_RPC_URL variable with your target RPC address if needed.
+3. Execute the script from your terminal:
+```bash
+python sonic_test.py
