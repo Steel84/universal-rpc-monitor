@@ -1,2 +1,14 @@
-# universal-rpc-monitor
-A high-performance Python tool for real-time RPC health monitoring, latency testing, and block synchronization tracking across EVM-compatible networks.
+# ⚡ RPC Performance Monitor
+
+A lightweight, developer-friendly Python utility designed to audit and monitor the health of blockchain nodes. 
+
+## 🚀 Key Features
+- **Low-Latency Tracking:** Measures RPC response time in milliseconds.
+- **Block Sync Verification:** Fetches and displays the latest block height instantly.
+- **EVM Compatible:** Works out-of-the-box with Sonic, Monad, Berachain, and Ethereum L2s.
+- **Zero Configuration:** Minimal dependencies for quick deployment.
+
+## 🛠 Installation
+Ensure you have Python 3.8+ installed, then run:
+```bash
+pip install web3
